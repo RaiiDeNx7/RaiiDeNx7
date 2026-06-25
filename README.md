@@ -5,6 +5,9 @@
 ---
 
 ## 🎓 Education
+**Virginia State University** — Masters of Science in Computer Science  
+*Petersburg, VA | January 2026 – Present*  
+- GPA: 4.0 |
 
 **Virginia State University** — Bachelor of Science in Computer Science  
 *Petersburg, VA | Aug 2023 – Dec 2025*  
